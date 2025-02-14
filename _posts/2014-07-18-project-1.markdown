@@ -1,11 +1,26 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2025-02-12
+img: colossal_kickoff.png  # You will need to add the actual image for this project.
+alt: "Colossal Kickoff Game"
+project-date: February 2025
+client: "Capstone Project Team"
+category: Game Development
+description: >
+  Colossal Kickoff is an action-packed asymmetrical soccer game that blends ancient mythology with modern gameplay mechanics. Created as part of my capstone project, this game features dynamic AI that roams and chases the player using state machines, as well as a variety of monster abilities and core gameplay mechanics like dribbling, kicking, and sliding.
+  Some of my contributions include:
+  - Implemented dynamic enemy AI with state machines.
+  - Designed and integrated various monster abilities.
+  - Developed core gameplay mechanics for player movement and interactions.
+  Technical Tools:
+  - Unity
+  - C#
+  - GitHub
+  Challenges:
+  - Tackled the complex AI behavior for both warriors and monsters.
+  Solution:
+  - Used game states to control dynamic AI behavior, ensuring responsive and intelligent enemy actions.
+  Learning Outcomes:
+  - Gained a deeper understanding of modular game development and the importance of clean architecture, which made it easy to add new levels and features without breaking existing functionality.
 ---
