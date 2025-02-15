@@ -2,25 +2,34 @@
 layout: default
 modal-id: 1
 date: 2025-02-12
-img: colossal_kickoff.png  # You will need to add the actual image for this project.
-alt: "Colossal Kickoff Game"
-project-date: February 2025
-client: "Capstone Project Team"
+img: colossal_kickoff.png
+alt: Colossal Kickoff Gameplay
+project-date: December 2024
+client: Capstone Project
 category: Game Development
-description: >
-  Colossal Kickoff is an action-packed asymmetrical soccer game that blends ancient mythology with modern gameplay mechanics. Created as part of my capstone project, this game features dynamic AI that roams and chases the player using state machines, as well as a variety of monster abilities and core gameplay mechanics like dribbling, kicking, and sliding.
-  Some of my contributions include:
-  - Implemented dynamic enemy AI with state machines.
-  - Designed and integrated various monster abilities.
-  - Developed core gameplay mechanics for player movement and interactions.
-  Technical Tools:
+description: |
+  Colossal Kickoff is an action-packed asymmetrical soccer game involving ancient mythology. Created alongside my team for my capstone project, this game challenges players with dynamic AI opponents and strategic gameplay mechanics.
+
+  Some of my contributions:
+  
+  - Implemented dynamic enemy AI that roams and chases the player using state machines.
+  - Developed numerous monster abilities.
+  - Created basic gameplay mechanics such as dribbling, kicking, and sliding.
+
+  Technical tools:
+  
   - Unity
   - C#
-  - GitHub
+  - Github
+
   Challenges:
-  - Tackled the complex AI behavior for both warriors and monsters.
-  Solution:
-  - Used game states to control dynamic AI behavior, ensuring responsive and intelligent enemy actions.
+  
+  - Tackling the implementation of AI behavior for warriors and the monster.
+    - Solution: Mapped out the solution on pen and paper, using game states to decide character behavior dynamically in-game.
+
   Learning Outcomes:
-  - Gained a deeper understanding of modular game development and the importance of clean architecture, which made it easy to add new levels and features without breaking existing functionality.
+  
+  - This project taught me the importance of modular architecture in game development, allowing me to easily add new levels and mechanics without breaking existing functionality.
+
+video: colossal-kickoff.mp4
 ---
