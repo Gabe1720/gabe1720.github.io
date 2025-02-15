@@ -21,6 +21,12 @@
               {{ post.description | markdownify }}
             </div>
             {% endif %}
+            {% if post.video %}
+              <div class="embed-responsive embed-responsive-16by9">
+                <h1>Video</h1>
+                <iframe class="embed-responsive-item" src="{{ post.video }}" allowfullscreen></iframe>
+              </div>
+            {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client:

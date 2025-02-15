@@ -1,0 +1,36 @@
+I"Y<p>Colossal Kickoff is an action-packed asymmetrical soccer game involving ancient mythology. Created alongside my team for my capstone project, this game challenges players with dynamic AI opponents and strategic gameplay mechanics.</p>
+
+<p>Some of my contributions:</p>
+
+<ul>
+  <li>Implemented dynamic enemy AI that roams and chases the player using state machines.</li>
+  <li>Developed numerous monster abilities.</li>
+  <li>Created basic gameplay mechanics such as dribbling, kicking, and sliding.</li>
+</ul>
+
+<p>Technical tools:</p>
+
+<ul>
+  <li>Unity</li>
+  <li>C#</li>
+  <li>Github</li>
+</ul>
+
+<p>Challenges:</p>
+
+<ul>
+  <li>Tackling the implementation of AI behavior for warriors and the monster.
+    <ul>
+      <li>Solution: Mapped out the solution on pen and paper, using game states to decide character behavior dynamically in-game.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Learning Outcomes:</p>
+
+<ul>
+  <li>This project taught me the importance of modular architecture in game development, allowing me to easily add new levels and mechanics without breaking existing functionality.</li>
+</ul>
+
+<p>Testing</p>
+:ET
