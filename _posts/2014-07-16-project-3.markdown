@@ -1,11 +1,37 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2025-02-12
+img: order_up.png
+alt: Order Up Gameplay
+project-date: December 2024
+client: School Project
+category: Game Development
+description: |
+  **Order Up** is a fast-paced chef simulator where you must fill burger orders before time’s up. Created independently, this game challenges players with quick thinking and precision to manage a hectic kitchen environment. 
+
+  **Key Features:**
+  
+  - Physics-based system for picking up and throwing objects, adding dynamic and unpredictable interactions.
+  - Cooking and chopping mechanics to prepare ingredients and assemble complete dishes.
+  - Dynamic order generation with a time limit, creating a sense of urgency and fast-paced gameplay.
+
+  **Technical tools:**
+  
+  - Unity
+  - C#
+  - Github
+
+  **Challenges:**
+  
+  - Structuring the game and its code was initially challenging due to the complexity of interconnected gameplay systems.
+    - **Solution:** Mapped out core gameplay features using pen and paper, then designed a UML diagram to organize and implement an object-oriented solution.
+
+  **Learning Outcomes:**
+  
+  - Learned how to effectively apply an object-oriented design approach to a game project, improving code maintainability and scalability.
+
+  [Itch.io Page](https://gabethf.itch.io/burger-mill)
+
+video: https://www.youtube.com/embed/uGr6q1-tqw0
 ---

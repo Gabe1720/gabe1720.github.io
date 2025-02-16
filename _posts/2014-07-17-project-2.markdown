@@ -1,11 +1,37 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+date: 2025-02-12
+img: 15_minutes_or_its_free.png
+alt: 15 Minutes or It’s Free Gameplay
+project-date: December 2024
+client: School Project
+category: Game Development
+description: |
+  **15 Minutes or It’s Free** is an arcade-style twin-stick shooter where you play as a pizza delivery driver navigating the apocalypse. Created alongside my team for my capstone project, this game combines fast-paced action with strategic gameplay elements.
+
+  **Some of my contributions:**
+  
+  - Developed physics-based arcade-style car movement for responsive and dynamic driving mechanics.
+  - Designed a weapon pick-up and swapping system to enhance player choice and strategy.
+  - Implemented AI enemies that dynamically pursue the player, increasing the challenge and excitement of the game.
+
+  **Technical tools:**
+  
+  - Unity
+  - C#
+  - Github
+
+  **Challenges:**
+  
+  - Faced time constraints with a rapidly approaching deadline.
+    - **Solution:** Rescoped and pivoted the game’s design direction to better align with time constraints and the core game concept. This involved cutting unnecessary features and adjusting the design to maintain a focus on keeping the player in the action.
+
+  **Learning Outcomes:**
+  
+  - This project taught me the importance of understanding a game's strengths and designing to maximize those strengths. By focusing on what made the game fun, I was able to create a more engaging player experience.
+
+  [Itch.io Page](https://rgprime1.itch.io/15-minutes-or-its-free)
+
+video: https://www.youtube.com/embed/iqRZnkHZBVc
 ---

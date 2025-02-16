@@ -2,10 +2,40 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: dream.png
+alt: Dream Image
+project-date: Fall 2023
+client: IMS 445 - Advanced Game Design
+category: Game Development
+description: |
+  Dream is a fever dream-like experience where you find yourself in a house infested with gnomes.
+
+  Created independently.
+
+  Key Features:
+  
+  - Gnomes spawn in various parts of the house and pursue the player.
+  - Player can fire a weapon.
+  - Player can move furniture to block off areas or damage and/or stun gnomes.
+  - Player finds notes that hint at where hidden items are located.
+  - Weather and fog system that enhances the surreal atmosphere.
+
+  Technical tools:
+  
+  - Unreal Engine
+  - Blueprint Scripting
+  - Github
+
+  Challenges:
+  
+  - Had difficulty implementing gnome AI behavior.
+    - Solution: Researched and utilized Unreal Engine’s built-in pathfinding system.
+
+  Learning Outcomes:
+  
+  - Learned how to implement advanced gameplay mechanics through Blueprint Scripting.
+
+  [Itch.io Page](https://gabethf.itch.io/dream)
+
+video: https://www.youtube.com/embed/ocJLdfoL5Vk
 ---

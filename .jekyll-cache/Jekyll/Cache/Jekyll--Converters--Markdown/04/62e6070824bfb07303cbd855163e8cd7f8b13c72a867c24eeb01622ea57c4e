@@ -1,0 +1,36 @@
+I"Z<p><strong>Order Up</strong> is a fast-paced chef simulator where you must fill burger orders before time’s up. Created independently, this game challenges players with quick thinking and precision to manage a hectic kitchen environment.</p>
+
+<p><strong>Key Features:</strong></p>
+
+<ul>
+  <li>Physics-based system for picking up and throwing objects, adding dynamic and unpredictable interactions.</li>
+  <li>Cooking and chopping mechanics to prepare ingredients and assemble complete dishes.</li>
+  <li>Dynamic order generation with a time limit, creating a sense of urgency and fast-paced gameplay.</li>
+</ul>
+
+<p><strong>Technical tools:</strong></p>
+
+<ul>
+  <li>Unity</li>
+  <li>C#</li>
+  <li>Github</li>
+</ul>
+
+<p><strong>Challenges:</strong></p>
+
+<ul>
+  <li>Structuring the game and its code was initially challenging due to the complexity of interconnected gameplay systems.
+    <ul>
+      <li><strong>Solution:</strong> Mapped out core gameplay features using pen and paper, then designed a UML diagram to organize and implement an object-oriented solution.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Learning Outcomes:</strong></p>
+
+<ul>
+  <li>Learned how to effectively apply an object-oriented design approach to a game project, improving code maintainability and scalability.</li>
+</ul>
+
+<p><a href="https://gabethf.itch.io/burger-mill">Itch.io Page</a></p>
+:ET

@@ -2,10 +2,37 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+img: e-commerce.png
+alt: e-commerce page
+project-date: Spring 2024
+client: School Project
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: |
+  An E-Commerce website that allows for browsing and shopping for clothing items. *Does not have actual purchasing functionality.*
+
+  Created independently.
+
+  Key Features:
+
+  - **Browsing page** that:
+    - Displays clothes and their info in a table format
+    - Has filtering and ordering options
+    - Allows users to “Add/Remove to/from Cart”
+  - **Order history page** that:
+    - Shows previous orders and info about them
+    - Allows users to filter by date and max lines
+    - Allows users to view orders in printable format
+
+  Technical tools:
+
+  - HTML, CSS, Bootstrap
+  - Javascript, JQuery, Ajax
+  - PHP
+
+  Learning Outcomes:
+
+  - Learned how to use JQuery, Ajax, and PHP in a web application.
+
+video: https://www.youtube.com/embed/CLlI0pcZo8w
+
 ---
