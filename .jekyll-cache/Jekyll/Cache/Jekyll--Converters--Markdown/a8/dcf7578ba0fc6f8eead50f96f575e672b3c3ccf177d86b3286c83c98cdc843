@@ -1,0 +1,36 @@
+I"�<p>Ignite the Abyss is a dungeon crawler set in the darkest depths of the ocean. Utilize your magical light to survive and navigate while fending off or sneaking past enemies in your quest to find the source of the great infection.</p>
+
+<p>Created alongside my team for my school project.</p>
+
+<p>Some of my contributions:</p>
+
+<ul>
+  <li>Developed player and enemy combat system.</li>
+  <li>Developed AI enemy behavior for dynamic and challenging encounters.</li>
+  <li>Implemented a 2D lighting system using Unity’s Universal Render Pipeline to create an eerie, immersive atmosphere.</li>
+</ul>
+
+<p>Technical tools:</p>
+
+<ul>
+  <li>Unity</li>
+  <li>C#</li>
+  <li>Github</li>
+</ul>
+
+<p>Challenges:</p>
+
+<ul>
+  <li>Had difficulties implementing the desired lighting that was critical to the game.
+    <ul>
+      <li>Solution: Researched and discovered an approach for implementation involving Unity’s Universal Render Pipeline. Using this, I was able to achieve the desired look for the game’s lighting.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Learning Outcomes:</p>
+
+<ul>
+  <li>This project taught me about lighting systems in game engines, as well as helped me improve my communication skills within an interdisciplinary team.</li>
+</ul>
+:ET

@@ -2,7 +2,8 @@
 layout: default
 modal-id: 1
 date: 2025-02-12
-img: colossal_kickoff.png
+img: colossal_kickoff_18_13.jpg
+fullImg: colossal_kickoff.jpg
 alt: Colossal Kickoff Gameplay
 project-date: December 2024
 client: Capstone Project

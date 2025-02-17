@@ -2,7 +2,8 @@
 layout: default
 modal-id: 2
 date: 2025-02-12
-img: 15_minutes_or_its_free.png
+img: 15_minutes_or_its_free_18_13.png
+fullImg: 15_minutes_or_its_free.png
 alt: 15 Minutes or It’s Free Gameplay
 project-date: December 2024
 client: School Project

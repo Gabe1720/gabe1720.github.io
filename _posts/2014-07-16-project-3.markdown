@@ -2,7 +2,8 @@
 layout: default
 modal-id: 3
 date: 2025-02-12
-img: order_up.png
+img: order_up_18_13.png
+fullImg: order_up.png
 alt: Order Up Gameplay
 project-date: December 2024
 client: School Project

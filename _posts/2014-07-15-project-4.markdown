@@ -2,7 +2,8 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: e-commerce.PNG
+img: e-commerce_18_13.png
+fullImg: e-commerce.png
 alt: e-commerce page
 project-date: Spring 2024
 client: School Project
@@ -28,6 +29,7 @@ description: |
   - HTML, CSS, Bootstrap
   - Javascript, JQuery, Ajax
   - PHP
+  - SQLite
 
   Learning Outcomes:
 

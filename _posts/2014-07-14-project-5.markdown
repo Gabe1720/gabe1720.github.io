@@ -2,7 +2,8 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: dream.png
+img: dream_18_13.png
+fullImg: dream.png
 alt: Dream Image
 project-date: Fall 2023
 client: IMS 445 - Advanced Game Design
