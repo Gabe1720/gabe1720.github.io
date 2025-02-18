@@ -9,7 +9,9 @@ project-date: December 2024
 client: Capstone Project
 category: Game Development
 description: |
-  Colossal Kickoff is an action-packed asymmetrical soccer game involving ancient mythology. Created alongside my team for my capstone project, this game challenges players with dynamic AI opponents and strategic gameplay mechanics.
+  **Colossal Kickoff** is an action-packed asymmetrical soccer game involving ancient mythology. This game challenges players with dynamic AI opponents and strategic gameplay mechanics.
+
+  *Created alongside my team for my capstone project.*
 
   **Some of my contributions:**
   
@@ -26,7 +28,7 @@ description: |
   **Challenges:**
   
   - Tackling the implementation of AI behavior for warriors and the monster.
-    - Solution: Mapped out the solution on pen and paper, using game states to decide character behavior dynamically in-game.
+    - **Solution:** Mapped out the solution on pen and paper, using game states to decide character behavior dynamically in-game.
 
   **Learning Outcomes:**
   

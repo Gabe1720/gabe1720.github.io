@@ -9,7 +9,9 @@ project-date: December 2024
 client: School Project
 category: Game Development
 description: |
-  **15 Minutes or It’s Free** is an arcade-style twin-stick shooter where you play as a pizza delivery driver navigating the apocalypse. Created alongside my team for my capstone project, this game combines fast-paced action with strategic gameplay elements.
+  **15 Minutes or It’s Free** is an arcade-style twin-stick shooter where you play as a pizza delivery driver navigating the apocalypse. This game combines fast-paced action with strategic gameplay elements.
+
+  *Created alongside my team for a school project.*
 
   **Some of my contributions:**
   

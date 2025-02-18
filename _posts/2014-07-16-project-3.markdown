@@ -9,7 +9,9 @@ project-date: December 2024
 client: School Project
 category: Game Development
 description: |
-  **Order Up** is a fast-paced chef simulator where you must fill burger orders before time’s up. Created independently, this game challenges players with quick thinking and precision to manage a hectic kitchen environment. 
+  **Order Up** is a fast-paced chef simulator where you must fill burger orders before time’s up. This game challenges players with quick thinking and precision to manage a hectic kitchen environment. 
+
+  *Created independently.*
 
   **Key Features:**
   

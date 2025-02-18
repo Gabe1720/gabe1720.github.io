@@ -11,7 +11,7 @@ category: Web Development
 description: |
   An E-Commerce website that allows for browsing and shopping for clothing items. *Does not have actual purchasing functionality.*
 
-  Created independently.
+  *Created independently.*
 
   Key Features:
 
